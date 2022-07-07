@@ -14,6 +14,8 @@
    
    Javascript: https://editor.p5js.org/Amanda_Martins/full/N31BlIXgf
    
+   Código scratch: https://scratch.mit.edu/projects/707707377/editor/
+   
    Código javascript: https://editor.p5js.org/Amanda_Martins/sketches/N31BlIXgf
    
    ## Freeway
